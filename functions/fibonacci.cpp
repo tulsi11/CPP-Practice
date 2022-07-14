@@ -20,4 +20,4 @@ int main(){
     cin>>n;
     fib(n);
     return 0;
-} 
+}
